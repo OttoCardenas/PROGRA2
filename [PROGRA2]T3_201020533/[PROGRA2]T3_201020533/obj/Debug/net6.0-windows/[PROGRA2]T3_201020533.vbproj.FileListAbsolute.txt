@@ -1,0 +1,17 @@
+C:\Users\T-Rex\source\repos\[PROGRA2]T3_201020533\[PROGRA2]T3_201020533\bin\Debug\net6.0-windows\[PROGRA2]T3_201020533.exe
+C:\Users\T-Rex\source\repos\[PROGRA2]T3_201020533\[PROGRA2]T3_201020533\bin\Debug\net6.0-windows\[PROGRA2]T3_201020533.deps.json
+C:\Users\T-Rex\source\repos\[PROGRA2]T3_201020533\[PROGRA2]T3_201020533\bin\Debug\net6.0-windows\[PROGRA2]T3_201020533.runtimeconfig.json
+C:\Users\T-Rex\source\repos\[PROGRA2]T3_201020533\[PROGRA2]T3_201020533\bin\Debug\net6.0-windows\[PROGRA2]T3_201020533.dll
+C:\Users\T-Rex\source\repos\[PROGRA2]T3_201020533\[PROGRA2]T3_201020533\bin\Debug\net6.0-windows\[PROGRA2]T3_201020533.pdb
+C:\Users\T-Rex\source\repos\[PROGRA2]T3_201020533\[PROGRA2]T3_201020533\obj\Debug\net6.0-windows\[PROGRA2]T3_201020533.vbproj.AssemblyReference.cache
+C:\Users\T-Rex\source\repos\[PROGRA2]T3_201020533\[PROGRA2]T3_201020533\obj\Debug\net6.0-windows\_PROGRA2_T3_201020533.Form1.resources
+C:\Users\T-Rex\source\repos\[PROGRA2]T3_201020533\[PROGRA2]T3_201020533\obj\Debug\net6.0-windows\[PROGRA2]T3_201020533.vbproj.GenerateResource.cache
+C:\Users\T-Rex\source\repos\[PROGRA2]T3_201020533\[PROGRA2]T3_201020533\obj\Debug\net6.0-windows\[PROGRA2]T3_201020533.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Rex\source\repos\[PROGRA2]T3_201020533\[PROGRA2]T3_201020533\obj\Debug\net6.0-windows\[PROGRA2]T3_201020533.AssemblyInfoInputs.cache
+C:\Users\T-Rex\source\repos\[PROGRA2]T3_201020533\[PROGRA2]T3_201020533\obj\Debug\net6.0-windows\[PROGRA2]T3_201020533.AssemblyInfo.vb
+C:\Users\T-Rex\source\repos\[PROGRA2]T3_201020533\[PROGRA2]T3_201020533\obj\Debug\net6.0-windows\[PROGRA2]T3_201020533.vbproj.CoreCompileInputs.cache
+C:\Users\T-Rex\source\repos\[PROGRA2]T3_201020533\[PROGRA2]T3_201020533\obj\Debug\net6.0-windows\[PROGRA2]T3_201020533.dll
+C:\Users\T-Rex\source\repos\[PROGRA2]T3_201020533\[PROGRA2]T3_201020533\obj\Debug\net6.0-windows\refint\[PROGRA2]T3_201020533.dll
+C:\Users\T-Rex\source\repos\[PROGRA2]T3_201020533\[PROGRA2]T3_201020533\obj\Debug\net6.0-windows\[PROGRA2]T3_201020533.pdb
+C:\Users\T-Rex\source\repos\[PROGRA2]T3_201020533\[PROGRA2]T3_201020533\obj\Debug\net6.0-windows\[PROGRA2]T3_201020533.genruntimeconfig.cache
+C:\Users\T-Rex\source\repos\[PROGRA2]T3_201020533\[PROGRA2]T3_201020533\obj\Debug\net6.0-windows\ref\[PROGRA2]T3_201020533.dll
